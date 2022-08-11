@@ -1,0 +1,5 @@
+4
+abbabcabbab
+abbacaabbabba
+bcabbabbc
+aabbccbaababaaccac
